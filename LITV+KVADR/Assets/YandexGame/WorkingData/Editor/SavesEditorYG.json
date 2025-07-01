@@ -1,0 +1,27 @@
+{
+    "idSave": 6252,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "money": 1,
+    "newPlayerName": "Hello!",
+    "openLevels": [
+        false,
+        true,
+        false
+    ],
+    "Score": 4364,
+    "ClickScore": 64,
+    "CostInt": 200,
+    "key1": false,
+    "key2": false,
+    "key3": false,
+    "key4": false,
+    "boss1Win": true,
+    "boss2Win": true,
+    "boss3Win": true,
+    "boss4Win": true,
+    "upgradeCost": 19200,
+    "isFirstTime": false,
+    "key_kuzya": true
+}
