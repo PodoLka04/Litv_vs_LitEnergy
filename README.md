@@ -8,7 +8,7 @@
 
 # Литвин битва за Кондиции
 
-Проект создан для публикации на платформе **Yandex Games**.
+Проект создан для публикации на платформе **Yandex Games** с целью коммерции.
 
 **Платформа:** WebGL (для ПК и мобильных устройств)
 
@@ -74,7 +74,7 @@
 
 # Litvin Battle for Konditsii
 
-The project was created for the **Yandex Games** platform.
+The project was created for the **Yandex Games** platform in profit.
 
 **Platform:** WebGL (for PC and mobile devices)
 
