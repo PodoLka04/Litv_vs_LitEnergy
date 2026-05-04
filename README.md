@@ -26,9 +26,10 @@
 - **Развитие:** Разблокируй новые уровни, скины и апгрейды.
 
 ## 🖼️ Скриншоты
+<img width="1920" height="1080" alt="image (12)" src="https://github.com/user-attachments/assets/19b1bd03-8619-4b90-aa50-e6d2aa925c69" />
+<img width="1920" height="1080" alt="image (10)" src="https://github.com/user-attachments/assets/c260c970-c747-4e98-a3b5-7ebb80e85261" />
+<img width="1920" height="1080" alt="image (11)" src="https://github.com/user-attachments/assets/03bfce79-645f-4671-8965-46d99eeb2e1f" />
 
-![Скриншот геймплея 1](Screenshots/screenshot1.png)
-![Скриншот геймплея 2](Screenshots/screenshot2.png)
 
 ## 🎮 Управление
 
@@ -44,22 +45,21 @@
 
 | Файл / Папка | Описание |
 |--------------|----------|
-| `LitvinBattle/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
-| `Screenshots/` | Скриншоты игры для README |
+| `LITV+KVADR/` | Все ресурсы проекта (скрипты, сцены, спрайты, звуки, настройки) |
 | `.gitignore` | Файл игнорирования Git |
 | `README.md` | Описание проекта |
 
 ## 🚀 Сборка и запуск
 
 1. Скачайте репозиторий.
-2. Откройте проект в Unity (версию смотрите в `LitvinBattle/ProjectSettings/ProjectVersion.txt`).
-3. Для запуска в редакторе откройте сцену `LitvinBattle/Assets/Scenes/MainScene.unity` и нажмите `Play`.
+2. Откройте проект в Unity (версию смотрите в `LITV+KVADR/ProjectSettings/ProjectVersion.txt`).
+3. Для запуска в редакторе откройте сцену `LITV+KVADR/Assets/Scenes/MainScene.unity` и нажмите `Play`.
 4. Для публикации на Yandex Games соберите проект в **WebGL** через `File → Build Settings`.
 5. Загрузите сборку в личном кабинете разработчика Yandex Games.
 
 ## 🛠 Используемые технологии
 
-- Unity (версия из `LitvinBattle/ProjectSettings/ProjectVersion.txt`)
+- Unity (версия из `LITV+KVADR/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
@@ -92,9 +92,9 @@ Become a true champion, unlock new levels, skins, and upgrades.
 - **Progression:** Unlock new levels, skins, and upgrades.
 
 ## 🖼️ Screenshots
-
-![Gameplay screenshot 1](Screenshots/screenshot1.png)
-![Gameplay screenshot 2](Screenshots/screenshot2.png)
+<img width="1920" height="1080" alt="image (12)" src="https://github.com/user-attachments/assets/19b1bd03-8619-4b90-aa50-e6d2aa925c69" />
+<img width="1920" height="1080" alt="image (10)" src="https://github.com/user-attachments/assets/c260c970-c747-4e98-a3b5-7ebb80e85261" />
+<img width="1920" height="1080" alt="image (11)" src="https://github.com/user-attachments/assets/03bfce79-645f-4671-8965-46d99eeb2e1f" />
 
 ## 🎮 Controls
 
@@ -110,22 +110,21 @@ Become a true champion, unlock new levels, skins, and upgrades.
 
 | File / Folder | Description |
 |---------------|-------------|
-| `LitvinBattle/` | All project resources (scripts, scenes, sprites, audio, settings) |
-| `Screenshots/` | Game screenshots for README |
+| `LITV+KVADR/` | All project resources (scripts, scenes, sprites, audio, settings) |
 | `.gitignore` | Git ignore file |
 | `README.md` | Project description |
 
 ## 🚀 Build and run
 
 1. Download the repository.
-2. Open the project in Unity (check the version in `LitvinBattle/ProjectSettings/ProjectVersion.txt`).
-3. To run in the editor, open `LitvinBattle/Assets/Scenes/MainScene.unity` and press `Play`.
+2. Open the project in Unity (check the version in `LITV+KVADR/ProjectSettings/ProjectVersion.txt`).
+3. To run in the editor, open `LITV+KVADR/Assets/Scenes/MainScene.unity` and press `Play`.
 4. For publishing on Yandex Games, build the project to **WebGL** via `File → Build Settings`.
 5. Upload the build to your Yandex Games developer dashboard.
 
 ## 🛠 Technologies used
 
-- Unity (version from `LitvinBattle/ProjectSettings/ProjectVersion.txt`)
+- Unity (version from `LITV+KVADR/ProjectSettings/ProjectVersion.txt`)
 - C#
 - Unity UI
 - WebGL
